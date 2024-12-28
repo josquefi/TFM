@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  2 22:56:19 2024
-
-@author: josepqueraltfibla
-"""
 
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
