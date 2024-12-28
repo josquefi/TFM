@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  1 20:13:41 2024
-
-@author: josepqueraltfibla
-"""
 
 import pandas as pd
 import random
