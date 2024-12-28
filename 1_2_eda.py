@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Dec  6 12:46:52 2024
-
-@author: josepqueraltfibla
-"""
 
 import pandas as pd
 from scipy.stats import skew, kurtosis, chi2_contingency
