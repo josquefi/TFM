@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Dec  5 16:42:41 2024
-
-@author: josepqueraltfibla
-"""
 
 import pandas as pd
 from sklearn.model_selection import train_test_split, RandomizedSearchCV
